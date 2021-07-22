@@ -10749,11 +10749,11 @@ msgstr "Ключ для подписи зоны"
 # ### Lang-specific vars
 # DateTime format
 msgid "format:datetime"
-msgstr "m/d/yyyy, HH:mm:ss"
+msgstr "dd-MM-yyyy, HH:mm:ss"
 
 # Date format
 msgid "format:date"
-msgstr "m/d/yyyy"
+msgstr "dd-MM-yyyy"
 
 # Text Direction
 msgid "$direction"
